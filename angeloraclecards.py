@@ -1,0 +1,3 @@
+cardset = ["A Year from Now","Abundance","Ask for Help from Others","Ask Your Angels","Be Assertive!","Big, Happy Changes","Choose a New Direction","Communicate Clearly","Compromise","Don't Stop!","Forgiveness","Get More lnformation","Helpful People","If You Believe","Improving Health","In the Near Future","You!","Let Go","Listen to Your Intuition","Look for a Sign","Meditation Brings Answers.","No ","No!","No Need to Worry","Not the Right Time","Opportunity","Peaceful Resolution","Perfect Timing","Reconsider","Recovery","Remain","Positive","Romance","Success!","Take Action","Te Situation Will Improve","There's Something Better","Trust","Unlikely","","Wait","","Within the Next Few Months","Within the Next Few Weeks","Yes","Yes!","You're Ready"]
+
+print(cardset)
